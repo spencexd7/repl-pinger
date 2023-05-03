@@ -10,7 +10,7 @@ import httpx
 
 def start_pinging(web):
     try:
-        httpx.get(f"http://{web}")
+        httpx.get(web)
         return True
     except:
         return False
