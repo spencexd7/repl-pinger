@@ -1,4 +1,3 @@
-# repl pinger
 
 # @ spencexd7
 - [github](https://github.com/spencexd7)
